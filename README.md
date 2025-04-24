@@ -1,4 +1,4 @@
-# Machine-Learning-and-Data-Analysis
+# Data-Insights-and-Visualizations
 
 
 ### Wine Quality Data Analysis
